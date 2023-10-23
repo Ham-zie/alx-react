@@ -1,11 +1,11 @@
 import $ from 'jquery';
 import _ from 'lodash';
 
-$('body').append("<p>Hamzie Dashboard</p>");
-$('body').append("<p>Dashboard data for ALX SHORT COURSE/p>");
+$('body').append("<p>Holberton Dashboard</p>");
+$('body').append("<p>Dashboard data for the Students</p>");
 $('body').append("<button>Click here to get started</button");
 $('body').append("<p id='count'></p>");
-$('body').append("<p>Copyright - James Hamzie Kamara</p>");
+$('body').append("<p>Copyright - Holberton School</p>");
 
 let count = 0;
 let infoClick = "";
