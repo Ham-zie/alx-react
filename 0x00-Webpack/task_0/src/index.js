@@ -1,5 +1,5 @@
 import $ from "jquery";
 
-$('body').append('<p>Hamzie Dashboard</p>');
-$('body').append('<p>Dashboard data for ALX SHORT COURSE</p>');
-$('body').append('<p>Copyright - James Hamzie Kamara</p>');
+$('body').append('<p>Holberton Dashboard</p>');
+$('body').append('<p>Dashboard data for the Students</p>');
+$('body').append('<p>Copyright - Holberton School</p>');
